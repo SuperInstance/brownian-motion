@@ -1,10 +1,12 @@
 [package]
 name = "brownian-motion"
 version = "0.1.0"
-description = "A Rust library for Brownian Motion"
+description = "Brownian Motion — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/brownian-motion"
+repository = "https://github.com/SuperInstance/brownian-motion"
 edition = "2021"
+
+keywords = ["brownian-motion"]
 
 [dependencies]
 rand = "0.8"
